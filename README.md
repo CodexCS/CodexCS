@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **arnavbhagwat90@gmail.com**
 
-- ⚡ Fun fact **I am a Red Bull fan**
+- ⚡ Fun fact **I like to code**
+
+- 🔭 My website [CodexCS](https://codexcs.carrd.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
