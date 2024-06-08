@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codexcs&" alt="codexcs" /></p>
 
-![image](https://github.com/CodexCS/CodexCS/assets/76836227/86ece2fc-29f2-4916-930d-ac8ecbab68b0)
+
 
 
 
