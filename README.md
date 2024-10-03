@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Bhagwat</h1>
 <h3 align="center">I am passionate coder, reader and F1 enthusiastic</h3>
 <img align="right" alt="Coding" width="400" 
-<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
+src ="<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codexcs&label=Profile%20views&color=0e75b6&style=flat" alt="codexcs" /> </p>
 
